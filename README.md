@@ -1,0 +1,2 @@
+# allvpn
+SCRIP VPN BY RIDWAN
